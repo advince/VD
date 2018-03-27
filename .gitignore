@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+VDEEPROM/
+VDLCD162/
+VDMQTT/
+VDTOUCHRELE/
+VDWEB/
